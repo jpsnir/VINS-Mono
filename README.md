@@ -1,3 +1,6 @@
+#Status
+Working with Ubuntu 20.04, Ros noetic, opencv 4.2 and ceres 2.0.0
+
 # VINS-Mono
 ## A Robust and Versatile Monocular Visual-Inertial State Estimator
 
